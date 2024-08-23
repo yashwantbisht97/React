@@ -25,14 +25,5 @@ yarn-error.log*
 *.njsproj
 *.sln
 
-# macOS system files
-.DS_Store
 
-# Windows system files
-Thumbs.db
-Desktop.ini
-
-# Optional: if you're using a package manager
-package-lock.json
-yarn.lock
 
